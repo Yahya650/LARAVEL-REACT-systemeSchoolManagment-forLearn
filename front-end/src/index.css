@@ -1,0 +1,11 @@
+a.link-opacity-25-hover {
+    color: #007bff;
+    text-decoration: underline; 
+    transition: all 0.3s;
+}
+
+a.link-opacity-25-hover:hover {
+    transition: all 0.3s;
+    text-decoration: none;
+    color: #0056b3;
+}
